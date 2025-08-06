@@ -4,4 +4,7 @@
 para comentar una sección de lineas en un código'''
 
 print("Hola Mundo, bienvenido a la UNSIJ")
-print("Taller: Desarrollo web"+ " con Flask")
+print("Taller: Desarrollo" ," web" + " con Flask")
+a=input("Escribe un dato...")
+b=input("Escribe un dato...")
+print("El valor es...",a+b)
